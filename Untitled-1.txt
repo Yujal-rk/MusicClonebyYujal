@@ -1,0 +1,4 @@
+font-family: 'Domine', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Pontano Sans', sans-serif;
+font-family: 'Varela Round', sans-serif;
